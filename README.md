@@ -29,7 +29,6 @@ One director agent plans the shots, generates them, reshoots the weak ones and b
 ## Shipped into other projects
 
 - **[pop-cli](https://github.com/r0gue-io/pop-cli/pull/578)**, the Polkadot developer CLI: interactive mode for `pop new`
-- **[Obolos](https://github.com/obolos-tech/obolos/pull/22)**: ERC-8004 validation attestations on Base Sepolia
-- **[Logos Circle Stewards](https://github.com/logos-co/logos-stewards)**: the e-learning platform that trains Logos community organisers, built on contract
+- **[Logos Circle Stewards](https://kilian.solutions/projects/logos-stewards)**: the e-learning platform that trains Logos community organisers, built on contract
 
 **Stack:** TypeScript, Node.js, Python, Rust, React, Next.js, SvelteKit, PostgreSQL, Playwright, Solidity, ink!
